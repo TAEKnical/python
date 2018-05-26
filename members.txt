@@ -1,0 +1,8 @@
+doh,sid73,999,551.5,32
+didi,edd484,130,55.0,10
+hy,er878re,35,18.0,2
+dr,qwert,18,8.0,0
+who,poiuy,34,18.0,0
+cool,hello,7,2.0,-2
+cooo,hello,1,1.0,1
+sung,han123,4,2.0,2
